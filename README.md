@@ -15,11 +15,64 @@ Check out my [YouTube Channel](https://www.youtube.com/@farcix) for more tutoria
 
 ### Languages and Technologies
 
-- **C#**
-- **Lua**
-- **C++**
-- **HTML**
-- **CSS**
-- **JavaScript**
+
+## C#
+```csharp
+namespace HelloWorld
+{
+	class Hello {		
+		static void Main(string[] args)
+		{
+			System.Console.WriteLine("Hello World!");
+		}
+	}
+}
+```
+
+## Lua
+```lua
+print "Hello world!"
+```
+
+## C++
+```c++
+#include <iostream>
+
+int main() {
+	std::cout << "Hello World!";
+	return 0;
+}
+```
+
+## HTML
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hello World!</title>
+    </head>
+    <body>
+        <h1>Hello World!<h1>
+    </body>
+</html>
+```
+
+## CSS
+```css
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+```
+
+## JavaScript
+```js
+console.log("Hello World!");
+```
+
 
 </>
